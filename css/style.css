@@ -11,6 +11,7 @@ body {
 header {
     background-color: white;
     padding: 10px;
+    margin-bottom: 30px;
 }
 #logo {
     vertical-align: middle;
@@ -18,4 +19,28 @@ header {
 h1 {
     display: inline-block;
     vertical-align:middle;
+}
+.container {
+    width: 75%;
+    margin: auto;
+    background-color: white;
+}
+.lightblue {
+    padding: 8px;
+    margin-top: 20px;
+    margin-left: 30px;
+    background-color: #47ADF1;
+    color: white;
+    border-radius: 8px;
+    width: 100px;
+    border: 0;
+}
+.white {
+        padding: 8px;
+        margin-top: 20px;
+        background-color: white;
+        border-radius: 8px;
+        width: 120px;
+        border: 1px solid #D1D6DA;
+        color: #D1D6DA;
 }

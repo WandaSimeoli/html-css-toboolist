@@ -8,6 +8,7 @@
 body {
     background-color: #F6F8F9;
 }
+/* Inizio Header */
 header {
     background-color: white;
     padding: 10px;
@@ -20,6 +21,7 @@ h1 {
     display: inline-block;
     vertical-align:middle;
 }
+/* Fine Header */
 .container {
     width: 75%;
     margin: auto;
@@ -33,6 +35,7 @@ h1 {
     color: white;
     border-radius: 8px;
     width: 100px;
+    margin-bottom: 10px;
     border: 0;
 }
 .white {
@@ -43,4 +46,19 @@ h1 {
         width: 120px;
         border: 1px solid #D1D6DA;
         color: #D1D6DA;
+}
+hr {
+    border: 2px solid #F6F8F9;
+}
+.line {
+    line-height: 30px;
+}
+.check {
+    color: #60BFA9;
+    border-radius: 50%;
+    border: 1px solid #60BFA9 ;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    text-align: center;
 }

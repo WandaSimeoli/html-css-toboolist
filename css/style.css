@@ -27,16 +27,17 @@ h1 {
     margin: auto;
     background-color: white;
 }
+/* Inizio Button */
 .lightblue {
     padding: 8px;
     margin-top: 20px;
-    margin-left: 30px;
+    margin-left: 50px;
     background-color: #47ADF1;
     color: white;
     border-radius: 8px;
     width: 100px;
     margin-bottom: 10px;
-    border: 0;
+    border: 2px solid #47ADF1;
 }
 .white {
         padding: 8px;
@@ -50,9 +51,17 @@ h1 {
 hr {
     border: 2px solid #F6F8F9;
 }
+/* Fine Button */
+.list {
+    margin-left: 50px;
+}
 .line {
     line-height: 20px;
     display: inline-block;
+    margin-top: 10px;
+}
+h3 {
+    margin-top: 30px;
 }
 .check {
     color: #60BFA9;
@@ -62,6 +71,7 @@ hr {
     width: 20px;
     height: 20px;
     text-align: center;
+    margin-right: 5px;
 }
 .etichetta{
     font-size: small;
@@ -70,4 +80,10 @@ hr {
     border-radius: 10px;
     display: inline-block;
     padding: 5px;
+}
+.interlinea {
+    margin-top: 5px;
+}
+.purple {
+    background-color: #9C72E4;
 }

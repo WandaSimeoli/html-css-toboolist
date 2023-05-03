@@ -74,6 +74,7 @@ h3 {
     text-align: center;
     margin-right: 5px;
 }
+/* Fine lista con check */
 /* Etichette */
 .etichetta{
     font-size: small;
@@ -98,6 +99,11 @@ h3 {
 .pink {
 background-color: #D863A1;
 }
+.lightgreen {
+    background-color: #B0C926;
+}
+/* Fine etichette */
+/* Lista con Cross */
 .cross {
     color: red;
     border-color: red;

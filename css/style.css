@@ -52,6 +52,7 @@ hr {
     border: 2px solid #F6F8F9;
 }
 /* Fine Button */
+/* Lista con check */
 .list {
     margin-left: 50px;
 }
@@ -73,6 +74,7 @@ h3 {
     text-align: center;
     margin-right: 5px;
 }
+/* Etichette */
 .etichetta{
     font-size: small;
     color: white;
@@ -82,8 +84,21 @@ h3 {
     padding: 5px;
 }
 .interlinea {
-    margin-top: 5px;
+    margin-top: 10px;
 }
 .purple {
     background-color: #9C72E4;
+}
+.green {
+    background-color: #60BFA9;
+}
+.orange {
+    background-color: orange;
+}
+.pink {
+background-color: #D863A1;
+}
+.cross {
+    color: red;
+    border-color: red;
 }
